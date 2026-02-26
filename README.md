@@ -1,4 +1,4 @@
-# Task Management Desktop App
+# LifeOS App
 
 A personal productivity desktop application built with Java and JavaFX for task organization and daily workflow management.
 
